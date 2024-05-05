@@ -4,6 +4,8 @@
 
 This repository contains the code for my robotics project, which involves utilizing various plugins and tools for Gazebo simulation, laser processing, navigation layers, and robot control.
 
+
+original repo withe exmaple: https://github.com/qaz9517532846/zm_robot
 ## Requirements
 
 - Ubuntu 18.04
