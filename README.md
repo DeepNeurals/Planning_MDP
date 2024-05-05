@@ -15,8 +15,8 @@ This repository contains the code for my robotics project, which involves utiliz
 
 1. Clone this repository into your ROS workspace:
     ```bash
-    $ mkdir -p ~/catkin_ws/src
-    $ cd ~/catkin_ws/src
+    $ mkdir -p ~/MDP_test_ws/src
+    $ cd ~/MDP_test_ws/src
     ```
 
 2. Clone the following repositories into the `src` directory:
