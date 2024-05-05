@@ -31,7 +31,7 @@ original repo withe exmaple: https://github.com/qaz9517532846/zm_robot
 
 3. Navigate back to the workspace root and build the packages:
     ```bash
-    $ cd ~/catkin_ws
+    $ cd ~/MDP_test_ws
     $ catkin_make
     ```
 
